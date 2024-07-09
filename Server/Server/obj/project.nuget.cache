@@ -2,7 +2,7 @@
   "version": 2,
   "dgSpecHash": "QRnUnmsoX5ZR7zSBRGMHlJ2sHRWLgNLBXuY6BJ+oF/r3u1fpOtHrV9DDCm+Kg9cX91p/h6lyHWGt2q++rjfbig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\walid-pc\\Desktop\\Ceo\\SeoTest\\Server\\Server\\Server.csproj",
+  "projectFilePath": "D:\\EHEI\\Projets\\SeoTest\\Server\\Server\\Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\walid-pc\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\walid-pc\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
